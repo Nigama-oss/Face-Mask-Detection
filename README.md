@@ -3,7 +3,7 @@ Face mask detection using tensorflow & keras.
 
 **How to see the model working?**
 
-- Clone this repository on your computer.
+- Clone this repository.
 - Run the following command in your cloned directory.
 
 
